@@ -1,22 +1,9 @@
-### Hi there 👋
+## I'm Ayako Tanaka
 
-<!--
-**ayakotanaka0224/ayakotanaka0224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏫 I'm University student.  
+🖋 I'm currently leaning React, Vue, Web Design and so on.  
+🖥 Please view my [PF](https://ayako-tanaka.netlify.app/)!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- リポジトリステータス -->
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=ayakotanaka0224&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ユーザ名/)
-
-<!-- ソースコード統計 -->
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayakotanaka0224&layout=compact&theme=tokyonight)](https://github.com/ayakotanaka0224/)
+[![](https://github-readme-stats.vercel.app/api?username=ayakotanaka0224&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ユーザ名/)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayakotanaka0224&layout=compact&theme=tokyonight)](https://github.com/ayakotanaka0224/)
